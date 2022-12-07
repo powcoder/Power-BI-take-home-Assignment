@@ -1,0 +1,24 @@
+https://powcoder.com
+代写代考加微信 powcoder
+Assignment Project Exam Help
+Add WeChat powcoder
+https://powcoder.com
+代写代考加微信 powcoder
+Assignment Project Exam Help
+Add WeChat powcoder
+id - participant id	
+gender - sex of the participant
+age - age of the participant
+Occupation - Whether participant is in a High Stress or Low Stress Job 
+heart_disease - Participant's history of heart disease (Yes/No)
+ever_married - Participant's maritals status (Yes/No)
+work_type - Work Situation of the participant
+Residence_type	- Participant's location of residence (Rural/Urban)
+avg_glucose_level - Average Glucose Level of the participant
+bmi - Body Mass Index of the participant	
+smoking_status - Smoking preferences of the participant	
+Continent - Geography of the particpant
+Cholestorol Level - Cholestrol Level of Participant
+Year - Year in which the participant was included in the study
+Alcohol Consumption - Nature of alcohol consumption (Light/Moderate/High/Heavy)	
+stroke- Whether participant has had stroke previously
